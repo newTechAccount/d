@@ -9,11 +9,11 @@ pygments: true
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : Jekyll Bootstrap
+title : a21.cn
 tagline: Site Tagline
 author :
-  name : Name Lastname
-  email : blah@email.test
+  name : SaturnV
+  email : newtech@gmail.com
   github : username
   twitter : username
   feedburner : feedname
