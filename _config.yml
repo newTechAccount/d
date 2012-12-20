@@ -9,8 +9,8 @@ pygments: true
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : a21.cn
-tagline: Site Tagline
+title : A21
+tagline: The Site Tagline
 author :
   name : SaturnV
   email : newtech@gmail.com
@@ -81,7 +81,7 @@ JB :
   comments :
     provider : disqus
     disqus :
-      short_name : jekyllbootstrap
+      short_name : a21
     livefyre :
       site_id : 123
     intensedebate :
