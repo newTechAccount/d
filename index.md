@@ -1,7 +1,7 @@
 ---
 layout: page
 title: a21
-tagline:试试中文
+tagline:tagline here
 ---
 {% include JB/setup %}
 
