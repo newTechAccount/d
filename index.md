@@ -1,7 +1,7 @@
 ---
 layout: page
 title: a21
-tagline: 中文也是可以的
+tagline:just another weblog:)
 ---
     
 
