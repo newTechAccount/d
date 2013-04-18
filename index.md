@@ -1,7 +1,7 @@
 ---
 layout: page
 title: a21
-tagline:just another weblog:)
+tagline:just another weblog
 ---
     
 
