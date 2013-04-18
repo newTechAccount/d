@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 首页
-tagline: just another weblog
+title: Index
+tagline: 
 ---
 
     
