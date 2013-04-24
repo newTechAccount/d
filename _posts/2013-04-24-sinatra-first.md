@@ -9,6 +9,7 @@ tags: [Sinatra]
 
 尝试了下Sinatra，主要参考
 >http://www.sinatrarb.com/intro.html
+
 一开始还比较顺利，后来访问的时候出了点困惑。
 
 +安装
