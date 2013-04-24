@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "在CentOS安装ruby"
-description: mac platform
-category: test
+description: 
+category: Ruby
 tags: [CentOS, Ruby, rubygems]
 ---
 
